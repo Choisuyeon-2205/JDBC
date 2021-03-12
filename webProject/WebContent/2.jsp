@@ -7,10 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>JSP= HTML + JAVA╣╣ ╟║╢иго╢ы.</h1>
+<h1>JSP= HTML + JAVAК▐└ Й╟─К┼╔М∙≤К▀╓.</h1>
 <%
-String myName = "цж╪Ж©╛";
+String myName = "Л╣°Л┬≤Л≈╟";
 %>
-<h2>Ё╙юг юл╦╖ю╨ <%= myName %> ют╢о╢ы.</h2>
+<h2>К┌≤Л²≤ Л²╢К╕└Л²─ <%= myName %> Л·┘К▀┬К▀╓.</h2>
 </body>
 </html>
